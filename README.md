@@ -13,4 +13,4 @@ and run it :D
 
 ## Credits
 
-@raifpy for [ClipBoardTranslater](https://github.com/raifpy/ClipBoardTranslater/) this project heavily inspired by this
+@raifpy - [Original Project](https://github.com/raifpy/ClipBoardTranslater)
